@@ -38,4 +38,20 @@ public void F()
 	{
 		System.out.println("F");
 	}
+	public void G()
+	{
+		System.out.println("G");
+	}
+	public void H()
+	{
+		System.out.println("H");
+	}
+	public void I()
+	{
+		System.out.println("I");
+	}
+	public void J()
+	{
+		System.out.println("J");
+	}
 }
