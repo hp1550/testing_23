@@ -34,5 +34,8 @@ public class test
 		
 
 	}
-
+public void F()
+	{
+		System.out.println("F");
+	}
 }
