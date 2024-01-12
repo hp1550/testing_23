@@ -26,6 +26,11 @@ public class test
 	{
 		System.out.println("E");
 	}
+	public void M1()
+	{
+		System.out.println("M1");
+	}
+	
 	
 	
 	public static void main(String[] args) 
